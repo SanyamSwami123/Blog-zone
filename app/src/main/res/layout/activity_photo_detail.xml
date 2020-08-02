@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <androidx.cardview.widget.CardView android:layout_margin="5dp"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+       >
+
+
+    <LinearLayout android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        >
+        <ImageView android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:scaleType="centerCrop"
+            android:src="@mipmap/add_btn"
+            android:cropToPadding="false"
+            android:adjustViewBounds="true"
+            android:id="@+id/postImageList"
+           />
+
+        <TextView
+            android:id="@+id/postTitleList"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="5dp"
+            android:text="Post Title"
+            android:textColor="#030303"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/postTextList"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="5dp"
+            android:text="Post Description here"
+            android:textColor="#F0090808" />
+
+
+
+
+
+
+    </LinearLayout>
+</androidx.cardview.widget.CardView>
+</RelativeLayout>

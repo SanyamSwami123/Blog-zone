@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+  <item
+      android:title="Add Image"
+      app:showAsAction="always"/>
+
+  <item android:title="Add Post" app:showAsAction="always" android:icon="@drawable/image" android:id="@+id/action_add"/>
+
+    <item android:title="Signout"
+        app:showAsAction="never"
+        android:id="@+id/action_signout"/>
+
+
+  <item android:title="Share"
+      app:showAsAction="never"
+      android:id="@+id/shareapp"/>
+
+  </menu>

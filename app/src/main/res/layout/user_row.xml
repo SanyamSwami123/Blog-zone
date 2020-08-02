@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<androidx.cardview.widget.CardView android:layout_margin="5dp"
+    android:layout_height="wrap_content"
+    android:layout_width="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <LinearLayout android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        >
+
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_weight="1"
+            android:paddingBottom="5dp">
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/Mr">
+
+
+
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/tr">
+
+                <TextView
+                    android:paddingTop="10dp"
+                    android:layout_height="wrap_content"
+                    android:layout_width="wrap_content"
+                    android:id="@+id/timestampList"
+                    android:text="Date created:"
+                    android:paddingLeft="5dp"
+                    android:textStyle="italic"
+                    android:layout_marginLeft="5dp"
+                    android:layout_weight="1"
+                    />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_toRightOf="@id/tr"
+                android:id="@+id/rr"
+                android:gravity="end"
+                >
+                <Button
+                android:id="@+id/deleteitem"
+                android:layout_width="25dp"
+                android:layout_height="20dp"
+                android:background="@drawable/delete"
+                android:paddingLeft="10dp"
+                android:layout_gravity="left"/>
+            </RelativeLayout>
+            </RelativeLayout>
+        </LinearLayout>
+
+
+
+
+
+
+        <ImageView android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:scaleType="centerCrop"
+            android:src="@mipmap/add_btn"
+            android:cropToPadding="false"
+            android:adjustViewBounds="true"
+            android:id="@+id/postImageList"/>
+
+        <TextView
+            android:id="@+id/postTitleList"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="2dp"
+            android:text="Post Title"
+            android:textColor="#030303"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal">
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/r1">
+            <ImageView
+                android:paddingTop="5dp"
+                android:paddingLeft="5dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/like" />
+            <TextView
+               android:paddingTop="1dp"
+                android:layout_below="@id/like"
+                android:layout_width="wrap_content"
+                android:layout_height="20dp"
+                android:id="@+id/likes"
+                android:text="likes"
+                android:layout_marginBottom="5dp"/>
+        </RelativeLayout>
+
+
+</LinearLayout>
+
+
+    </LinearLayout>
+</androidx.cardview.widget.CardView>

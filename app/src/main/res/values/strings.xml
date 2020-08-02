@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ZoNe</string>
+    <string name="create_act">create_act</string>
+    <string name="login_title">login_title</string>
+    <string name="email">Email</string>
+    <string name="password">password(Atleast 6 letters||digit)</string>
+    <string name="submit_text">submit_text</string>
+    <string name="post_title">post_title</string>
+    <string name="post_description">post_description</string>
+    <string name="firstName">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="bio">Enter Something About U </string>
+    <string name="firstname">First Name (  Optional   )</string>
+    <string name="lastname">Last Name (  Optional )</string>
+    <string name="Email">Email ( optional )</string>
+    <string name="Password">Password ( optional )</string>
+
+</resources>
