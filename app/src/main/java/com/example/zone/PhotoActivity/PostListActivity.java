@@ -289,15 +289,4 @@ public class PostListActivity extends AppCompatActivity implements View.OnClickL
         super.onPause();
         shimmerFrameLayout.stopShimmer();
     }
-
-    //Ads
-    public void intertitialAppLoading()
-    {
-        mInterstitialAd = new InterstitialAd(this);
-        mInterstitialAd.setAdUnitId("ca-app-pub-3171667061548325/9378745815");
-        mInterstitialAd.loadAd(new AdRequest.Builder().build());
-
-    }
-
-
 }
