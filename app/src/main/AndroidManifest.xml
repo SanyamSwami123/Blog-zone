@@ -19,14 +19,6 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
 
-        <meta-data
-            android:name="com.google.android.gms.ads.APPLICATION_ID"
-            android:value="ca-app-pub-3171667061548325~2087752616"/>
-
-
-
-
-
         <activity android:name=".PhotoActivity.photoDetailActivity2"
             android:screenOrientation="portrait"
             android:theme="@style/Theme.AppCompat.Light.NoActionBar"/>
