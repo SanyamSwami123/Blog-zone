@@ -6,7 +6,7 @@ width =1000 height=500>
 
 **Software Used** Android studio v3.5.3.0 
 
-**Language** java with firebase API 
+**Language used** java with firebase API 
 
 **Developed by** @SanyamSwami123
 
