@@ -1,5 +1,5 @@
 # BlogZone
-> Designed and  Developed an android application called "blog zone" (blogging application using java and firebase api) for android mobiles.
+> Designed and  Developed an android application called "blog zone" (blogging application using java and firebase api) for an android mobiles.
 
 <img src="https://github.com/SanyamSwami123/Blog-zone/blob/master/app/src/main/res/drawable-xxhdpi/sanyam.png" 
 width =1000 height=500>
