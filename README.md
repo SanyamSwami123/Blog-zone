@@ -4,9 +4,6 @@
 <img src="https://github.com/SanyamSwami123/Blog-zone/blob/master/app/src/main/res/drawable-xxhdpi/sanyam.png" width =1000 height=500/>
 <h2> User interface </h2>
 <img align="left" src="https://github.com/SanyamSwami123/Blog-zone/blob/master/app/src/main/res/drawable-anydpi/4.jpg" width =482/> <img align="right" src="https://github.com/SanyamSwami123/Blog-zone/blob/master/app/src/main/res/drawable-anydpi/1.jpg" width =482/> 
-
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 **Software Used** Android studio v3.5.3.0 
 
 **Language used** java with firebase API 
