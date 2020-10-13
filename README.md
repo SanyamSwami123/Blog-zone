@@ -1,8 +1,13 @@
 # BlogZone
 > Designed and  Developed an android application called "blog zone" (blogging application using java and firebase api) for an android mobiles.
 
-<img src="https://github.com/SanyamSwami123/Blog-zone/blob/master/app/src/main/res/drawable-xxhdpi/sanyam.png" 
-width =1000 height=500>
+<img src="https://github.com/SanyamSwami123/Blog-zone/blob/master/app/src/main/res/drawable-xxhdpi/sanyam.png" width =1000 height=500/>
+<h2>
+User interface
+</h2>
+<img align="left" src="https://github.com/SanyamSwami123/Blog-zone/blob/master/app/src/main/res/drawable-anydpi/4.jpg" width =455/> <img align="right" src="https://github.com/SanyamSwami123/Blog-zone/blob/master/app/src/main/res/drawable-anydpi/1.jpg" width =455/> 
+
+<p>&nbsp;</p>
 
 **Software Used** Android studio v3.5.3.0 
 
