@@ -4,7 +4,7 @@
 <img src="https://github.com/SanyamSwami123/Blog-zone/blob/master/app/src/main/res/drawable-xxhdpi/sanyam.png" width =1000 height=500/>
 <h2> User interface </h2>
 1. Registering/authenticating new users
-<img src="https://github.com/SanyamSwami123/Blog-zone/blob/master/app/src/main/res/drawable-anydpi/4.jpg" width =448/> <img src="https://github.com/SanyamSwami123/Blog-zone/blob/master/app/src/main/res/drawable-anydpi/1.jpg" width =448/> 
+<img src="https://github.com/SanyamSwami123/Blog-zone/blob/master/app/src/main/res/drawable-anydpi/4.jpg" width =452 align="left"/><img src="https://github.com/SanyamSwami123/Blog-zone/blob/master/app/src/main/res/drawable-anydpi/1.jpg" width =452 align="right"/> 
 
 **Software Used** Android studio v3.5.3.0 
 
