@@ -5,9 +5,9 @@
 <h2> User interface </h2>
  
 <p float="left">
-  <img src="https://github.com/SanyamSwami123/Blog-zone/blob/master/app/src/main/res/drawable-anydpi/4.jpg" width="400" />
+  <img src="https://github.com/SanyamSwami123/Blog-zone/blob/master/app/src/main/res/drawable-anydpi/4.jpg" width="450" />
  &nbsp
-  <img src="https://github.com/SanyamSwami123/Blog-zone/blob/master/app/src/main/res/drawable-anydpi/1.jpg" width="400" /> 
+  <img src="https://github.com/SanyamSwami123/Blog-zone/blob/master/app/src/main/res/drawable-anydpi/1.jpg" width="450" /> 
 </p>
 
 <p float="left">
