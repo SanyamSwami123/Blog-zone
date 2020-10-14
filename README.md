@@ -3,8 +3,11 @@
 
 <img src="https://github.com/SanyamSwami123/Blog-zone/blob/master/app/src/main/res/drawable-xxhdpi/sanyam.png" width =1000 height=500/>
 <h2> User interface </h2>
-![](https://github.com/SanyamSwami123/Blog-zone/blob/master/app/src/main/res/drawable-anydpi/4.jpg) | ![](https://github.com/SanyamSwami123/Blog-zone/blob/master/app/src/main/res/drawable-anydpi/1.jpg)
  
+<p float="left">
+  <img src="https://github.com/SanyamSwami123/Blog-zone/blob/master/app/src/main/res/drawable-anydpi/4.jpg" width="400" />
+  <img src="https://github.com/SanyamSwami123/Blog-zone/blob/master/app/src/main/res/drawable-anydpi/1.jpg" width="400" /> 
+</p>
 
 **Software Used** Android studio v3.5.3.0 
 
