@@ -16,6 +16,7 @@
   <img src="https://github.com/SanyamSwami123/Blog-zone/blob/master/app/src/main/res/drawable-anydpi/3.jpg" width="450" /> 
    &nbsp
    <img src="https://github.com/SanyamSwami123/Blog-zone/blob/master/app/src/main/res/drawable-anydpi/2.jpg" width="450" /> 
+   <img src="https://github.com/SanyamSwami123/Blog-zone/blob/master/app/src/main/res/drawable-anydpi/8.jpg" width="450" /> 
 
 
 **Software Used** Android studio v3.5.3.0 
