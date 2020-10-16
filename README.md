@@ -10,13 +10,13 @@
   <img src="https://github.com/SanyamSwami123/Blog-zone/blob/master/app/src/main/res/drawable-anydpi/1.jpg" width="450" /> 
 </p>
 
-<p float="left">
-  <img src="https://github.com/SanyamSwami123/Blog-zone/blob/master/app/src/main/res/drawable-anydpi/6.jpg" width="300" />
+
+  <img src="https://github.com/SanyamSwami123/Blog-zone/blob/master/app/src/main/res/drawable-anydpi/6.jpg" width="450" />
  &nbsp
-  <img src="https://github.com/SanyamSwami123/Blog-zone/blob/master/app/src/main/res/drawable-anydpi/3.jpg" width="300" /> 
+  <img src="https://github.com/SanyamSwami123/Blog-zone/blob/master/app/src/main/res/drawable-anydpi/3.jpg" width="450" /> 
    &nbsp
-   <img src="https://github.com/SanyamSwami123/Blog-zone/blob/master/app/src/main/res/drawable-anydpi/2.jpg" width="300" /> 
-</p>
+   <img src="https://github.com/SanyamSwami123/Blog-zone/blob/master/app/src/main/res/drawable-anydpi/2.jpg" width="450" /> 
+
 
 **Software Used** Android studio v3.5.3.0 
 
