@@ -12,11 +12,18 @@
 <img src="https://github.com/SanyamSwami123/Blog-zone/blob/master/app/src/main/res/drawable-anydpi/1.jpg" width =500/> 
 
 * Home activity
+
 <img src="https://github.com/SanyamSwami123/Blog-zone/blob/master/app/src/main/res/drawable-anydpi/6.jpg" width =500/>
+
+* profile activity
 
 <img src="https://github.com/SanyamSwami123/Blog-zone/blob/master/app/src/main/res/drawable-anydpi/3.jpg" width =500 /> 
 
+* Edit activity
+
 <img src="https://github.com/SanyamSwami123/Blog-zone/blob/master/app/src/main/res/drawable-anydpi/2.jpg" width =500/> 
+
+* add post activity
 
 <img src="https://github.com/SanyamSwami123/Blog-zone/blob/master/app/src/main/res/drawable-anydpi/8.jpg" width =500/> 
 
