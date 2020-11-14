@@ -20,8 +20,41 @@ Through my platform, I’ll enable them to meet people who share the common inte
 Everyone.
 Anyone can use this application ranging from a child to an old-age person.
 
-2.2 Platform
+2.2 Functionality
+
+* Users should be able to register through their already existing accounts.
+* They should be able to share snaps.
+* People should be able to like and comment on any post. 
+* One person can follow another person who share common interests
+ and likings which would enable them to find mates apart from their usual friend circle.
+* Each user can have his/her profile picture, status.
+* People can post mysteries and other people can solve the mysteries.
+* Users will get points for the popularity of their posts/the number of mysteries they solve.
+* Add description and title for there post.
+
+2.3 Platform
 It will be launched as a Mobile app for Android.
 
-2.3 Development Responsibility
+2.4 Development Responsibility
 I, Sanyam Swami, would be developing the software and I am responsible for the creation of the Database and all the other related stuffs.
+
+3. Goals and Scopes
+
+* Users should be able to register through their already existing accounts.
+* They should be able to share snaps.
+* People should be able to like and comment on any post. 
+* One person can follow another person who share common interests
+ and likings which would enable them to find mates apart from their usual friend circle.
+* Each user can have his/her profile picture, status.
+* People can post mysteries and other people can solve the mysteries.
+* Users will get points for the popularity of their posts/the number of mysteries they solve.
+* Add description and title for there post.
+
+4. Deliverables
+I’ll deliver the following during the course of development:
+
+* Feature specification
+* Product design
+* Test plan
+* Development document
+* Source code
