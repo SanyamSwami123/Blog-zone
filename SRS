@@ -65,3 +65,14 @@ People are already using Facebook, instagram, and many different social media to
 So, what would be the real cause that would motivate them to join my application.
 
 5.2 Risk Mitigation
+Even though most of the users would already be using Facebook, instagram, our platform would still offer them many things that is not there on Facebook or other paltforms.
+For eg.
+They don’t meet people who share common interests and passions as much. Our application would enable them to meet people (apart from usual friends) 
+who share common interests and passions on a more frequent basis.
+More importantly, people need not register for my application, but instead, they can login using their already existing accounts of Google/Facebook.
+Thus, I think that there is a considerable amount of difference between Facebook/Instagram/Twitter and my application and it would attract many people.
+
+6. Technical Process
+Following would be the languages I would use to develop my application within the stipulated time period:
+For Android app: Java on Android SDK.
+Backend: firebase.
